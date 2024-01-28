@@ -16,7 +16,7 @@
 
 O **Comércio Fácil** é uma aplicação full stack responsiva construída durante o bootcamp de formação [Recode Pro](https://recodepro.org.br/ "Site da Recode Pro"), com o intuito de colocarmos em prática todo conteúdo estudado no ciclo 2023.
 
-<a href="http://" target="_blank">Recode Pro</a>
+<p><a href="http://recodepro.org.br/ "Site da Recode Pro" target="_blank" rel="external">Recode Pro</a>
 
 Esta aplicação tem por objetivo conectar de forma eficas o pequeno comércio aos seus clientes.
 Nesta plataforma os clientes podem pesquisar por feiras, filtrar seus produtos e visualizar preços, além do percurso para adiquirií-la.
