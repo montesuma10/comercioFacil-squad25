@@ -4,7 +4,7 @@
 </div>
 
 ## Índice:
-- <a href="#sobre-o-projeto">Sobre o projeto</a>
+- <a href="#sobre-o-projeto:">Sobre o projeto</a>
 - <a href="#aplicação-mobile">Aplicação Mobile</a>
 - <a href="#aplicação-web">Aplicação WEB</a>
 - <a href="#demonstração">Demonstração</a>
